@@ -13,8 +13,8 @@ function Projects() {
           "Persistent data using localStorage"
         ]}
         tech="React.js, Hooks, JavaScript, CSS"
-        github="https://github.com/yourusername/task-manager"
-        demo="https://your-demo-link.com"
+        github=""
+        demo=""
       />
       <ProjectCard
         title="Weather Forecast Application"
@@ -26,8 +26,8 @@ function Projects() {
           "Responsive UI for all devices"
         ]}
         tech="React.js, REST API, Fetch, CSS"
-        github="https://github.com/yourusername/weather-app"
-        demo="https://your-demo-link.com"
+        github=""
+        demo=""
       />
       <ProjectCard
         title="Expense Tracker Dashboard"
