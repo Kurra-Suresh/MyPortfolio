@@ -39,8 +39,8 @@ function Projects() {
           "Clean and reusable component structure"
         ]}
         tech="React.js, Context API, JavaScript, CSS"
-        github="https://github.com/yourusername/expense-tracker"
-        demo="https://your-demo-link.com"
+        github=""
+        demo=""
       />
     </section>
   );
