@@ -9,11 +9,11 @@ function Contact() {
                      <p>
                             LinkedIn:
                             <a
-                                   href="https://www.linkedin.com/in/yourprofile"
+                                   href="https://www.linkedin.com/in/suresh-kurra-96ab00236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtwwDRiTBTN2XI1fV8Ku5YA%3D%3D"
                                    target="_blank"
                                    rel="noopener noreferrer"
                             >
-                                   yourprofile
+                                   SURESH KURRA
                             </a>
                      </p>
                      <p>
