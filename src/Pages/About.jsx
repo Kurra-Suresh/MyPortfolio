@@ -1,17 +1,17 @@
 function About() {
- return (
-<section className="page">
-<h2>About Me</h2>
-<p>
-       I am a React.js Developer with over 3 years of hands-on experience building responsive and scalable web applications using modern JavaScript and React best practices.
-</p>
-<p>
-       I specialize in developing reusable components, managing application state efficiently, and integrating REST APIs to deliver real-world, user-focused solutions.
-</p>
-<p>
-       I enjoy translating UI designs into clean, maintainable code, improving performance, and continuously learning new frontend technologies. I am currently seeking opportunities as a React or Frontend Developer where I can contribute effectively and grow.
-</p>
-</section>
- );
+       return (
+              <section className="page">
+                     <h2>About Me</h2>
+                     <p>
+                            I am a Frontend Developer with 3.7 years of professional experience, currently working at LTIMindtree since June 2022. I have been involved in building and maintaining scalable, high-performance web applications using React.js and modern JavaScript in a production environment.
+                     </p>
+                     <p>
+                            In my role at LTIMindtree, I focus on developing reusable React components, managing application state efficiently, and integrating RESTful APIs to deliver reliable and user-focused solutions. I work closely with designers, backend developers, and stakeholders to translate requirements into responsive and maintainable user interfaces.
+                     </p>
+                     <p>
+                            I have hands-on experience in performance optimization, debugging production issues, and following clean code and best practices. I enjoy improving existing features, learning new frontend technologies, and contributing effectively to enterprise-level applications. I am looking to continue growing as a React / Frontend Developer, working on complex products and solving real-world problems.
+                     </p>
+              </section>
+       );
 }
 export default About;
